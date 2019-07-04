@@ -1,0 +1,23 @@
+{
+  "name": "opk-rpc",
+  "version": "1.0.0",
+  "description": "OpenKore-DiscordRPC",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sctnightcore/openkore-discordRPC.git"
+  },
+  "author": "sctnightcore",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sctnightcore/openkore-discordRPC/issues"
+  },
+  "homepage": "https://github.com/sctnightcore/openkore-discordRPC#readme",
+  "dependencies": {
+    "discord-rpc": "^3.0.2",
+    "net": "^1.0.2"
+  }
+}
